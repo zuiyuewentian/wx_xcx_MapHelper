@@ -84,7 +84,7 @@ Page({
   onLoad: function () {
     // 实例化API核心类
     qqmapsdk = new QQMapWX({
-      key: 'SN7BZ-2PK6W-RYSR5-RRWUU-CSHYE-4KBYA'
+      key: ''
     });
   
     var _this=this;
